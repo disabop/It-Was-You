@@ -4,15 +4,35 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public float speed;
+    private float horizontalInput;
+    private float verticalInput;
+    public bool hasKey = false;
+    private Rigidbody playerRb;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        playerRb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        horizontalInput = Input.GetAxis("Horizontal");
+        verticalInput = Input.GetAxis("Vertical");
+
+        transform.Translate(Vector3.up * speed * Time.deltaTime * verticalInput);
+        transform.Translate(Vector3.right * speed * Time.deltaTime * horizontalInput);
+
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Key"))
+        {
+            hasKey = true;
+            Destroy(other.gameObject);
+        }
     }
 }

@@ -42,7 +42,6 @@ public class Collidable : MonoBehaviour
 
     protected virtual void OnCollide(Collider2D coll)
     {
-        InteractionText.gameObject.SetActive(true);
         Interaction = true;
 
     }
