@@ -38,7 +38,8 @@ public class Player : MonoBehaviour
             transform.localScale = new Vector3(-1, 0, 0);
         }
 
-        Debug.Log(x);
-        Debug.Log(y);
+        // This allows the character to actually move
+        transform.Translate(moveDelta * Time.deltaTime);
+
     }
 }
