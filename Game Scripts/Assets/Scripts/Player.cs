@@ -22,10 +22,23 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Resets the player's movement
-        moveDelta = Vector3.zero;
-
         float x = Input.GetAxisRaw("Horizontal");
-        float y 
+        float y = Input.GetAxisRaw("Vertical");
+
+        // Resets the player's movement
+        moveDelta = new Vector3(x, y, 0);
+
+        // This allows the character to immediately change directions
+        if (moveDelta.x > 0)
+        {
+            transform.localScale = Vector3.one;
+        }
+        else if (moveDelta.x < 0)
+        {
+            transform.localScale = new Vector3(-1, 0, 0);
+        }
+
+        Debug.Log(x);
+        Debug.Log(y);
     }
 }
