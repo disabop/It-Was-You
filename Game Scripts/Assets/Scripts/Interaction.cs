@@ -13,7 +13,6 @@ public class Interaction : MonoBehaviour
     private PlayerController playerControllerScript;
     public GameObject player;
     public Vector3 offset = new Vector3(4, 5, 0);
-    playerControllerScript = GameObject.Find("Player").GetComponent<Collidable();
 
 
     // Update is called once per frame
