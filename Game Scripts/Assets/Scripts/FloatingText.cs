@@ -9,6 +9,7 @@ public class FloatingText
     public bool active;
     public GameObject go;
     public Text txt;
+    public Vector3 motion;
     public float duration;
     public float lastShown;
 
@@ -26,7 +27,7 @@ public class FloatingText
     }
 
     // Update is called once per frame
-    public void UpdatelLoatingText()
+    public void UpdateFloatingText()
     {
         if (!active)
             return;
@@ -34,6 +35,6 @@ public class FloatingText
         if (Time.time - lastShown > duration)
             Hide();
 
-        go.transform.position += Motion * Time.deltaTime;
+        go.transform.position += motion * Time.deltaTime;
     }
 }

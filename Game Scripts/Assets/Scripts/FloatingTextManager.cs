@@ -21,7 +21,24 @@ public class FloatingTextManager : MonoBehaviour
         floatingText.txt.text = msg;
         floatingText.txt.fontSize = fontSize;
         floatingText.txt.color = color;
-        floatingText.go.transform.position = position;
+
+        //This will set the world space's origin coordinates to the same as the screen space, allowing us to more uniformly move our text boxes
+        floatingText.go.transform.position = Camera.main.WorldToScreenPoint(position);
+        floatingText.motion = motion;
+        floatingText.duration = duration;
+
+        floatingText.Show();
+    }
+
+    private void FixedUpdate()
+    {
+        {
+            foreach(FloatingText txt in floatingTexts)
+            {
+                txt.UpdateFloatingText();
+            }
+
+        }
     }
 
     private List<FloatingText> floatingTexts = new List<FloatingText>();
