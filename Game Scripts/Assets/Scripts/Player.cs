@@ -44,7 +44,7 @@ public class Player : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Door"))
+        if (other.CompareTag("SecondFloorStairs"))
         {
             if ((int)delay >= 3)
             {
@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
                 delay = 0;
             }
         }
-        else if (other.CompareTag("Door2"))
+        else if (other.CompareTag("FirstFloorStairs"))
         {
             if ((int)delay >= 3)
             {

@@ -5,7 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Door
-  - Door2
+  - FirstFloorStairs
+  - SecondFloorStairs
+  - DoorLeadingOutside
+  - BasementDoor
+  - FrontDoor
+  - ShedDoor
   layers:
   - Default
   - TransparentFX
@@ -40,12 +45,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Door
-    uniqueID: 1492721369
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Character
     uniqueID: 1284017463
+    locked: 0
+  - name: Door
+    uniqueID: 1492721369
     locked: 0
