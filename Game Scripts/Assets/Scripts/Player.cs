@@ -30,9 +30,7 @@ public class Player : MonoBehaviour
         velocity.y = Input.GetAxisRaw("Vertical") * speed;
 
         myRB.velocity = velocity;
-<<<<<<< HEAD
         delay += Time.deltaTime;
-=======
 
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
@@ -42,7 +40,6 @@ public class Player : MonoBehaviour
         {
             speed = 10;
         }
->>>>>>> e6bc0445991d74fc341005604363cb86faa1da27
     }
 
     void OnTriggerEnter2D(Collider2D other)
