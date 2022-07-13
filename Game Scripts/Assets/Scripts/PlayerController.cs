@@ -24,7 +24,6 @@ public class PlayerController : MonoBehaviour
 
         transform.Translate(Vector3.up * speed * Time.deltaTime * verticalInput);
         transform.Translate(Vector3.right * speed * Time.deltaTime * horizontalInput);
-
     }
 
     private void OnTriggerEnter(Collider other)
