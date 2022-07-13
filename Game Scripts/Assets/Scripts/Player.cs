@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed = 10;
+    private float delay = 0;
 
     public Vector2 velocity;
 
@@ -27,17 +28,26 @@ public class Player : MonoBehaviour
         velocity.y = Input.GetAxisRaw("Vertical") * speed;
 
         myRB.velocity = velocity;
+        delay += Time.deltaTime;
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Door"))
         {
-            transform.position = new Vector2(-93, 248);
+            if ((int)delay >= 3)
+            {
+                transform.position = new Vector2(-93, 248);
+                delay = 0;
+            }
         }
         else if (other.CompareTag("Door2"))
         {
-            transform.position = new Vector2(270, -45);
+            if ((int)delay >= 3)
+            {
+                transform.position = new Vector2(270, -45);
+                delay = 0;
+            }
         }
         else if (other.CompareTag("Door3"))
         {
