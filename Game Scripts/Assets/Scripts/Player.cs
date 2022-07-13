@@ -28,4 +28,13 @@ public class Player : MonoBehaviour
 
         myRB.velocity = velocity;
     }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Door"))
+        {
+            transform.position = new Vector2(0, 5);
+        }
+
+    }
 }

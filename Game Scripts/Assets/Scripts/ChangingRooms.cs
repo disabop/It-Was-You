@@ -10,18 +10,10 @@ public class ChangingRooms : MonoBehaviour
         
     }
 
+
     // Update is called once per frame
     void Update()
     {
-        
-    }
-
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Door"))
-        {
-            Vector3 spawnpos = new Vector3(0, 5, 0);
-        }
         
     }
 }
