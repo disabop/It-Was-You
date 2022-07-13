@@ -7487,6 +7487,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FloatingText
       objectReference: {fileID: 0}
+    - target: {fileID: 4299580697480312742, guid: b98327dadaa5fa94bb8b207780f3147b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4299580697480312743, guid: b98327dadaa5fa94bb8b207780f3147b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20181,7 +20186,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textContainer: {fileID: 1274804443}
-  textPrefab: {fileID: 0}
+  textPrefab: {fileID: 4299580697480312742, guid: b98327dadaa5fa94bb8b207780f3147b,
+    type: 3}
 --- !u!114 &1274804445
 MonoBehaviour:
   m_ObjectHideFlags: 0
