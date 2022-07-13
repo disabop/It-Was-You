@@ -19,7 +19,7 @@ public class Collidable : MonoBehaviour
     private Collider2D[] hits = new Collider2D[10];
     public TextMeshProUGUI InteractionText;
     private Vector3 interactionPos = new Vector3(25, 0, 0);
-    public bool Interaction = false;
+    public bool interaction = false;
 
     // Update is called once per frame
     protected virtual void Update()
@@ -31,9 +31,10 @@ public class Collidable : MonoBehaviour
             if (hits[i] == null)
             {
                 continue;
+                
             }
 
-            OnCollide(hits[1]);
+            OnCollide(hits[i]);
 
             Debug.Log(hits[i].name);
             hits[i] = null;
@@ -42,7 +43,7 @@ public class Collidable : MonoBehaviour
 
     protected virtual void OnCollide(Collider2D coll)
     {
-        Interaction = true;
-
+        interaction = true;
+        Debug.Log("ITWORKED");
     }
 }
