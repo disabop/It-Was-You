@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
 
     public Vector2 velocity;
 
+    Animator myAnim;
 
     Rigidbody2D myRB;
 
@@ -15,6 +16,7 @@ public class Player : MonoBehaviour
     private void Start()
     {
         myRB = GetComponent<Rigidbody2D>();
+        myAnim = GetComponent<Animator>();
     }
 
 
@@ -25,6 +27,12 @@ public class Player : MonoBehaviour
 
         velocity.x = Input.GetAxisRaw("Horizontal") * speed;
         velocity.y = Input.GetAxisRaw("Vertical") * speed;
+
+        if (velocity != Vector2.zero)
+            myAnim.SetBool("isWalking", true);
+
+        else
+            myAnim.SetBool("isWalking", false);
 
         myRB.velocity = velocity;
     }
