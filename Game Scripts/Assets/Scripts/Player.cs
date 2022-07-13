@@ -8,8 +8,6 @@ public class Player : MonoBehaviour
 
     public Vector2 velocity;
 
-    private float shiftSpeed = 15.0f;
-
 
     Rigidbody2D myRB;
 
@@ -29,15 +27,6 @@ public class Player : MonoBehaviour
         velocity.y = Input.GetAxisRaw("Vertical") * speed;
 
         myRB.velocity = velocity;
-
-        if (Input.GetKeyDown(KeyCode.LeftShift))
-        {
-            speed = shiftSpeed;
-        }
-        else if (Input.GetKeyUp(KeyCode.LeftShift))
-        {
-            speed = 10;
-        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
