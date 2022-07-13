@@ -44,8 +44,27 @@ public class Player : MonoBehaviour
     {
         if (other.CompareTag("Door"))
         {
-            transform.position = new Vector2(0, 5);
+            transform.position = new Vector2(-93, 248);
         }
-
+        else if (other.CompareTag("Door2"))
+        {
+            transform.position = new Vector2(270, -45);
+        }
+        else if (other.CompareTag("Door3"))
+        {
+            transform.position = new Vector2(-93, 248);
+        }
+        else if (other.CompareTag("Door4"))
+        {
+            transform.position = new Vector2(-93, 248);
+        }
+        else if (other.CompareTag("Door5"))
+        {
+            transform.position = new Vector2(-93, 248);
+        }
+        else if (other.CompareTag("Door6"))
+        {
+            transform.position = new Vector2(-93, 248);
+        }
     }
 }
