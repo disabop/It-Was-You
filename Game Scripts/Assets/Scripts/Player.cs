@@ -6,11 +6,13 @@ public class Player : MonoBehaviour
 {
     public float speed = 10;
     private float delay = 0;
+    private bool BasementKey = false;
+    private bool Lantern = false;
+
 
     public Vector2 velocity;
 
     private float shiftSpeed = 15.0f;
-
 
     Rigidbody2D myRB;
 
@@ -20,6 +22,26 @@ public class Player : MonoBehaviour
         myRB = GetComponent<Rigidbody2D>();
     }
 
+    private IEnumerator DrawerMessageDisappears()
+    {
+        drawerText.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(4);
+
+        drawerText.gameObject.SetActive(false);
+
+    }
+
+    private IEnumerator LanternMessage()
+    {
+
+        lanternObtainedText.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(4);
+
+        lanternObtainedText.gameObject.SetActive(false);
+
+    }
 
     // Update is called once per frame
     void Update()
@@ -44,6 +66,7 @@ public class Player : MonoBehaviour
 
 
     public GameObject drawerText;
+    public GameObject lanternObtainedText;
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -65,11 +88,14 @@ public class Player : MonoBehaviour
         }
         else if (other.CompareTag("Drawer"))
         {
-            drawerText.gameObject.SetActive(true);
-            if ((int)delay >= 4)
+            StartCoroutine(DrawerMessageDisappears());
+            if (Input.GetKeyDown(KeyCode.E))
             {
-                drawerText.gameObject.SetActive(false);
-                delay = 0;
+                if (Lantern == false)
+                {
+                    StartCoroutine(LanternMessage());
+                }
+                Lantern = true;
             }
         }
         else if (other.CompareTag("Door4"))
