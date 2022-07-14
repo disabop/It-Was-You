@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: 4324910624279045519, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}
       propertyPath: m_TagString
-      value: SecondFloorStairs
+      value: OutsideDoor
       objectReference: {fileID: 0}
     - target: {fileID: 4730563829530578158, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}
@@ -1376,7 +1376,7 @@ PrefabInstance:
     - target: {fileID: 4324910624279045519, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}
       propertyPath: m_TagString
-      value: SecondFloorStairs
+      value: LockedBasementDoor
       objectReference: {fileID: 0}
     - target: {fileID: 4730563829530578158, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}
@@ -2299,7 +2299,7 @@ PrefabInstance:
     - target: {fileID: 4324910624279045519, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}
       propertyPath: m_TagString
-      value: SecondFloorStairs
+      value: DoorLeadingOutside
       objectReference: {fileID: 0}
     - target: {fileID: 4730563829530578158, guid: d17fa6d32f680ab42a8a6ec8219338c4,
         type: 3}

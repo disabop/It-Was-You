@@ -12,6 +12,8 @@ TagManager:
   - FrontDoor
   - ShedDoor
   - Drawer
+  - LockedBasementDoor
+  - OutsideDoor
   layers:
   - Default
   - TransparentFX
