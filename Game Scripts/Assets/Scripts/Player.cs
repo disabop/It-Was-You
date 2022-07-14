@@ -130,16 +130,14 @@ public class Player : MonoBehaviour
                 delay = 0;
             }
         }
-        else if (other.CompareTag("BasementDoor"))
+        else if (other.CompareTag("BasementDoor") && BasementKeyCheck != null)
         {
-            if (BasementKeyCheck.basementText == true)
-            {
-                transform.position = new Vector2(-94, -37);
-            }
-            else if (BasementKeyCheck.basementText == false)
-            {
-                StartCoroutine(ShowHideBasementDoorText());
-            }
+            transform.position = new Vector2(-94, -37);
         }
+        else if (other.CompareTag("BasementDoor") && BasementKeyCheck == null)
+        {
+            StartCoroutine(ShowHideBasementDoorText());
+        }
+        
     }
 }

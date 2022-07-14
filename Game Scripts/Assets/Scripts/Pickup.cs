@@ -26,11 +26,13 @@ public class Pickup : MonoBehaviour
                 {
                     inventory.isFull[i] = true;
                     Instantiate(itemButton, inventory.slots[i].transform, false);
-                    Destroy(gameObject);
+                    gameObject.SetActive(false);
                     basementText = true;
                     break;
                 }
             }
+
+            other.gameObject.GetComponent<Player>().BasementKeyCheck = this;
         }
     }
 }
