@@ -103,35 +103,5 @@ public class Player : MonoBehaviour
                 delay = 0;
             }
         }
-        else if (other.CompareTag("Drawer"))
-        {
-            StartCoroutine(DrawerMessageDisappears());
-            while (interactTime > 0)
-            {
-                if (Input.GetKeyDown(KeyCode.E))
-                {
-                    if (Lantern == false)
-                    {
-                        StartCoroutine(LanternMessage());
-                        Lantern = true;
-                        Debug.Log("It worked");
-                    }
-                }
-                interactTime--;
-            }
-            interactTime = 400;
-        }
-        else if (other.CompareTag("Door4"))
-        {
-            transform.position = new Vector2(-93, 248);
-        }
-        else if (other.CompareTag("Door5"))
-        {
-            transform.position = new Vector2(-93, 248);
-        }
-        else if (other.CompareTag("Door6"))
-        {
-            transform.position = new Vector2(-93, 248);
-        }
     }
 }
