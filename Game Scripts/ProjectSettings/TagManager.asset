@@ -15,6 +15,7 @@ TagManager:
   - LockedBasementDoor
   - OutsideDoor
   - BasementKey
+  - Newspaper
   layers:
   - Default
   - TransparentFX
