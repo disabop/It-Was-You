@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     private bool BasementKey = false;
     private bool Lantern = false;
     private int interactTime = 400;
+    public GameObject BasementText;
 
     public Vector2 velocity;
 
@@ -81,6 +82,14 @@ public class Player : MonoBehaviour
         }
     }
 
+    private IEnumerator ShowHideBasementDoorText()
+    {
+        BasementText.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(4);
+        BasementText.gameObject.SetActive(false);
+    }
+
 
     public GameObject drawerText;
     public GameObject lanternObtainedText;
@@ -121,10 +130,13 @@ public class Player : MonoBehaviour
         }
         else if (other.CompareTag("BasementDoor"))
         {
-            if ((int)delay >= 3)
+            if (BasementKey == true)
             {
-                transform.position = new Vector2(-169, 182);
-                delay = 0;
+                transform.position = new Vector2(-94, -37);
+            }
+            else if (BasementKey == false)
+            {
+                StartCoroutine(ShowHideBasementDoorText());
             }
         }
     }
