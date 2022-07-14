@@ -103,5 +103,29 @@ public class Player : MonoBehaviour
                 delay = 0;
             }
         }
+        else if (other.CompareTag("DoorLeadingOutside"))
+        {
+            if ((int)delay >= 3)
+            {
+                transform.position = new Vector2(212, 248);
+                delay = 0;
+            }
+        }
+        else if (other.CompareTag("OutsideDoor"))
+        {
+            if ((int)delay >= 3)
+            {
+                transform.position = new Vector2(-169, 182);
+                delay = 0;
+            }
+        }
+        else if (other.CompareTag("BasementDoor"))
+        {
+            if ((int)delay >= 3)
+            {
+                transform.position = new Vector2(-169, 182);
+                delay = 0;
+            }
+        }
     }
 }
