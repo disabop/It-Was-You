@@ -42,6 +42,9 @@ public class Player : MonoBehaviour
         }
     }
 
+
+    public GameObject drawerText;
+
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("SecondFloorStairs"))
@@ -60,9 +63,14 @@ public class Player : MonoBehaviour
                 delay = 0;
             }
         }
-        else if (other.CompareTag("Door3"))
+        else if (other.CompareTag("Drawer"))
         {
-            transform.position = new Vector2(-93, 248);
+            drawerText.gameObject.SetActive(true);
+            if ((int)delay >= 4)
+            {
+                drawerText.gameObject.SetActive(false);
+                delay = 0;
+            }
         }
         else if (other.CompareTag("Door4"))
         {
