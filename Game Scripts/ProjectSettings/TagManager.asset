@@ -48,9 +48,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Drawer
-    uniqueID: 1794444839
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
@@ -59,4 +56,10 @@ TagManager:
     locked: 0
   - name: Door
     uniqueID: 1492721369
+    locked: 0
+  - name: BackpackItem
+    uniqueID: 697837489
+    locked: 0
+  - name: Drawer
+    uniqueID: 1794444839
     locked: 0
