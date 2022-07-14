@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
     private bool Lantern = false;
     private int interactTime = 400;
     public GameObject BasementText;
-    Pickup BasementKeyCheck;
+    public Pickup BasementKeyCheck;
 
     public Vector2 velocity;
 
