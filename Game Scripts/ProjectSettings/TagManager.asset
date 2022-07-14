@@ -14,6 +14,7 @@ TagManager:
   - Drawer
   - LockedBasementDoor
   - OutsideDoor
+  - BasementKey
   layers:
   - Default
   - TransparentFX

@@ -6,7 +6,7 @@ public class Pickup : MonoBehaviour
 {
     private Inventory inventory;
     public GameObject itemButton;
-    public bool BasementText;
+    public bool basementText;
     Player basementkey;
 
     // Start is called before the first frame update
@@ -18,16 +18,18 @@ public class Pickup : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        for (int i = 0; i < inventory.slots.Length; i++)
+        if (other.CompareTag("Player"))
         {
-            if (inventory.isFull[i] == false)
+            for (int i = 0; i < inventory.slots.Length; i++)
             {
-                inventory.isFull[i] = true;
-                Instantiate(itemButton, inventory.slots[i].transform, false);
-                Destroy(gameObject);
-                BasementText = basementkey.BasementText;
-                basementkey.BasementText = true;
-                break;
+                if (inventory.isFull[i] == false)
+                {
+                    inventory.isFull[i] = true;
+                    Instantiate(itemButton, inventory.slots[i].transform, false);
+                    Destroy(gameObject);
+                    basementText = true;
+                    break;
+                }
             }
         }
     }

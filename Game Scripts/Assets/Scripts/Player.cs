@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     private bool Lantern = false;
     private int interactTime = 400;
     public GameObject BasementText;
+    Pickup BasementKeyCheck;
 
     public Vector2 velocity;
 
@@ -21,6 +22,7 @@ public class Player : MonoBehaviour
     private void Start()
     {
         myRB = GetComponent<Rigidbody2D>();
+        BasementKeyCheck = GetComponent<Pickup>();
     }
 
     private IEnumerator DrawerMessageDisappears()
@@ -130,11 +132,11 @@ public class Player : MonoBehaviour
         }
         else if (other.CompareTag("BasementDoor"))
         {
-            if (BasementKey == true)
+            if (BasementKeyCheck.basementText == true)
             {
                 transform.position = new Vector2(-94, -37);
             }
-            else if (BasementKey == false)
+            else if (BasementKeyCheck.basementText == false)
             {
                 StartCoroutine(ShowHideBasementDoorText());
             }
