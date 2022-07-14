@@ -913,7 +913,7 @@ CircleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 764003859}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -1898,12 +1898,12 @@ PrefabInstance:
     - target: {fileID: 5995675252687877141, guid: fdf801db0f35d944a885d5f3722a283f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.68995816
+      value: -1.33
       objectReference: {fileID: 0}
     - target: {fileID: 5995675252687877141, guid: fdf801db0f35d944a885d5f3722a283f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.037734907
+      value: -0.025
       objectReference: {fileID: 0}
     - target: {fileID: 5995675252687877141, guid: fdf801db0f35d944a885d5f3722a283f,
         type: 3}
@@ -1950,10 +1950,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5995675252687877141, guid: fdf801db0f35d944a885d5f3722a283f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.650755
+      objectReference: {fileID: 0}
     - target: {fileID: 5995675252687877142, guid: fdf801db0f35d944a885d5f3722a283f,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5995675252687877143, guid: fdf801db0f35d944a885d5f3722a283f,
         type: 3}
