@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
     private float delay = 0;
     private bool BasementKey = false;
     private bool Lantern = false;
-
+    private int interactTime = 400;
 
     public Vector2 velocity;
 
@@ -36,10 +36,27 @@ public class Player : MonoBehaviour
     {
 
         lanternObtainedText.gameObject.SetActive(true);
+        Lantern = true;
+        Debug.Log("ITWORKED");
 
         yield return new WaitForSeconds(4);
 
         lanternObtainedText.gameObject.SetActive(false);
+
+    }
+
+    private IEnumerator eToInteract()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            if (Lantern == false)
+            {
+                StartCoroutine(LanternMessage());
+                Lantern = true;
+            }
+        }
+
+        yield return new WaitForSeconds(0.01f);
 
     }
 
@@ -89,14 +106,20 @@ public class Player : MonoBehaviour
         else if (other.CompareTag("Drawer"))
         {
             StartCoroutine(DrawerMessageDisappears());
-            if (Input.GetKeyDown(KeyCode.E))
+            while (interactTime > 0)
             {
-                if (Lantern == false)
+                if (Input.GetKeyDown(KeyCode.E))
                 {
-                    StartCoroutine(LanternMessage());
+                    if (Lantern == false)
+                    {
+                        StartCoroutine(LanternMessage());
+                        Lantern = true;
+                        Debug.Log("It worked");
+                    }
                 }
-                Lantern = true;
+                interactTime--;
             }
+            interactTime = 400;
         }
         else if (other.CompareTag("Door4"))
         {

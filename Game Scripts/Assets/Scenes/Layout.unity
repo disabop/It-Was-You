@@ -640,7 +640,7 @@ MonoBehaviour:
   speed: 10
   velocity: {x: 0, y: 0}
   drawerText: {fileID: 6992566894022637337}
-  lanternObtainedText: {fileID: 0}
+  lanternObtainedText: {fileID: 417374489}
 --- !u!212 &427110158
 SpriteRenderer:
   m_ObjectHideFlags: 0
