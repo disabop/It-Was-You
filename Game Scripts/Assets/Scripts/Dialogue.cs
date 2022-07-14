@@ -9,6 +9,9 @@ public class Dialogue : MonoBehaviour
     public string[] lines;
     public float textSpeed;
     private int index;
+    public GameObject player;
+    private bool isPlayerTalking;
+    Player playerRB;
 
     // Start is called before the first frame update
     void Start()
@@ -32,6 +35,12 @@ public class Dialogue : MonoBehaviour
                 textComponent.text = lines[index];
             }
         }
+
+        if (isPlayerTalking)
+        {
+            playerRB = player.gameObject.GetComponent<Player>();
+            playerRB.speed = 0f;
+        }
     }
 
     void StartDialogue()
@@ -44,6 +53,7 @@ public class Dialogue : MonoBehaviour
     {
         foreach (char c in lines[index].ToCharArray())
         {
+            isPlayerTalking = true;
             textComponent.text += c;
             yield return new WaitForSeconds(textSpeed);
         }
@@ -60,6 +70,8 @@ public class Dialogue : MonoBehaviour
         else
         {
             gameObject.SetActive(false);
+            isPlayerTalking = false;
+            playerRB.speed = 10f;
         }
     }
 }

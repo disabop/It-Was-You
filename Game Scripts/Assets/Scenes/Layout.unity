@@ -471,6 +471,7 @@ MonoBehaviour:
   - You wake up to the sound of crashing thunder.
   - '"Where am I?" You ask aloud as you try to get your bearings.'
   textSpeed: 0.1
+  player: {fileID: 427110155}
 --- !u!1001 &256175139
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1971,8 +1972,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 1}
-  m_RaycastTarget: 0
+  m_Color: {r: 0.098039225, g: 0.098039225, b: 0.098039225, a: 0.43529412}
+  m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -3740,12 +3741,12 @@ PrefabInstance:
     - target: {fileID: 8188148236000695990, guid: 909ff659619ca5348ba375210e78dd74,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -600.4
+      value: 123
       objectReference: {fileID: 0}
     - target: {fileID: 8188148236000695990, guid: 909ff659619ca5348ba375210e78dd74,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 415
+      value: -1247
       objectReference: {fileID: 0}
     - target: {fileID: 8188148236000695990, guid: 909ff659619ca5348ba375210e78dd74,
         type: 3}
