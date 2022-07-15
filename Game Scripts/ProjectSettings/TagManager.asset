@@ -56,8 +56,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Character
-    uniqueID: 1284017463
+  - name: Floor
+    uniqueID: 1682770117
     locked: 0
   - name: FurnitureBehind
     uniqueID: 4004152603
@@ -79,4 +79,7 @@ TagManager:
     locked: 0
   - name: WallOnTop
     uniqueID: 380840693
+    locked: 0
+  - name: Character
+    uniqueID: 1284017463
     locked: 0
