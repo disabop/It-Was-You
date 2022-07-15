@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: 6d9a953b7cd338e4f96e7b8e138db6a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8420734583408540276
+    second: TC_Basics Asset Pack_0
+  - first:
+      213: -6420297571690913740
+    second: TC_Basics Asset Pack_1
+  - first:
+      213: 3624967635769426559
+    second: TC_Basics Asset Pack_2
+  - first:
+      213: 2537881597444539797
+    second: TC_Basics Asset Pack_3
+  - first:
+      213: -1156637404465613742
+    second: TC_Basics Asset Pack_4
+  - first:
+      213: 8959460560780197680
+    second: TC_Basics Asset Pack_5
+  - first:
+      213: -1240595763308499423
+    second: TC_Basics Asset Pack_6
+  - first:
+      213: -1882461161356639146
+    second: TC_Basics Asset Pack_7
+  - first:
+      213: -8469428021196228304
+    second: TC_Basics Asset Pack_8
+  - first:
+      213: 270833427447985452
+    second: TC_Basics Asset Pack_9
+  - first:
+      213: 3678671833387132597
+    second: TC_Basics Asset Pack_10
+  - first:
+      213: -8321744417887593368
+    second: TC_Basics Asset Pack_11
+  - first:
+      213: -1658908763766720103
+    second: TC_Basics Asset Pack_12
+  - first:
+      213: -7558820298284537474
+    second: TC_Basics Asset Pack_13
+  - first:
+      213: -5743484428058688839
+    second: TC_Basics Asset Pack_14
+  - first:
+      213: 293937845465336498
+    second: TC_Basics Asset Pack_15
+  - first:
+      213: 65627798406231062
+    second: TC_Basics Asset Pack_16
+  - first:
+      213: 8843097884498316980
+    second: TC_Basics Asset Pack_17
+  - first:
+      213: -5242335828915094838
+    second: TC_Basics Asset Pack_18
+  - first:
+      213: -7159576818419692845
+    second: TC_Basics Asset Pack_19
+  - first:
+      213: -6360954955318266494
+    second: TC_Basics Asset Pack_20
+  - first:
+      213: 7138024262452011547
+    second: TC_Basics Asset Pack_21
+  - first:
+      213: -317050052168771799
+    second: TC_Basics Asset Pack_22
+  - first:
+      213: 3993884735217459593
+    second: TC_Basics Asset Pack_23
+  - first:
+      213: 3961703499257318573
+    second: TC_Basics Asset Pack_24
+  - first:
+      213: -7481374451390010559
+    second: TC_Basics Asset Pack_25
+  - first:
+      213: 4931397561053296834
+    second: TC_Basics Asset Pack_26
+  - first:
+      213: 8427765094400674034
+    second: TC_Basics Asset Pack_27
+  - first:
+      213: -8372006003098257220
+    second: TC_Basics Asset Pack_28
+  - first:
+      213: 4798857725245009383
+    second: TC_Basics Asset Pack_29
+  - first:
+      213: 9039294743314841373
+    second: TC_Basics Asset Pack_30
+  - first:
+      213: 2186620501800207491
+    second: TC_Basics Asset Pack_31
+  - first:
+      213: 2095502123042209741
+    second: TC_Basics Asset Pack_32
+  - first:
+      213: -5444037179606489055
+    second: TC_Basics Asset Pack_33
+  - first:
+      213: 6640460839330338402
+    second: TC_Basics Asset Pack_34
+  - first:
+      213: 506800729542005624
+    second: TC_Basics Asset Pack_35
+  - first:
+      213: 8996601219972459040
+    second: TC_Basics Asset Pack_36
+  - first:
+      213: -1032680280708161177
+    second: TC_Basics Asset Pack_37
+  - first:
+      213: 3639010392823538534
+    second: TC_Basics Asset Pack_38
+  - first:
+      213: 7419398758958020045
+    second: TC_Basics Asset Pack_39
+  - first:
+      213: -5997919719661417341
+    second: TC_Basics Asset Pack_40
+  - first:
+      213: -3260646303180059199
+    second: TC_Basics Asset Pack_41
+  - first:
+      213: 3468889796032748799
+    second: TC_Basics Asset Pack_42
+  - first:
+      213: -5686551362662350582
+    second: TC_Basics Asset Pack_43
+  - first:
+      213: -5301023758804396231
+    second: TC_Basics Asset Pack_44
+  - first:
+      213: 7420238664973044334
+    second: TC_Basics Asset Pack_45
+  - first:
+      213: -3599974254999658558
+    second: TC_Basics Asset Pack_46
+  - first:
+      213: 2006719928854319119
+    second: TC_Basics Asset Pack_47
+  - first:
+      213: -6720241495726683647
+    second: TC_Basics Asset Pack_48
+  - first:
+      213: -5037101960615578589
+    second: TC_Basics Asset Pack_49
+  - first:
+      213: 549292505783339424
+    second: TC_Basics Asset Pack_50
+  - first:
+      213: 4717842382771577651
+    second: TC_Basics Asset Pack_51
+  - first:
+      213: -3933477749480568350
+    second: TC_Basics Asset Pack_52
+  - first:
+      213: -4473725366451480300
+    second: TC_Basics Asset Pack_53
+  - first:
+      213: -3478647329515817206
+    second: TC_Basics Asset Pack_54
+  - first:
+      213: -5811213474410713182
+    second: TC_Basics Asset Pack_55
+  - first:
+      213: 7372000226529848634
+    second: TC_Basics Asset Pack_56
+  - first:
+      213: -2580154064917535988
+    second: TC_Basics Asset Pack_57
+  - first:
+      213: 7531753120363449362
+    second: TC_Basics Asset Pack_58
+  - first:
+      213: -1822128008444827635
+    second: TC_Basics Asset Pack_59
+  - first:
+      213: 1838097513585653323
+    second: TC_Basics Asset Pack_60
+  - first:
+      213: -348923150789702523
+    second: TC_Basics Asset Pack_61
+  - first:
+      213: 2190732828412087641
+    second: TC_Basics Asset Pack_62
+  - first:
+      213: 5996727717201171426
+    second: TC_Basics Asset Pack_63
+  - first:
+      213: -7847883718592243005
+    second: TC_Basics Asset Pack_64
+  - first:
+      213: 5732017640637318118
+    second: TC_Basics Asset Pack_65
+  - first:
+      213: -700964293790761717
+    second: TC_Basics Asset Pack_66
+  - first:
+      213: 1355331299915950894
+    second: TC_Basics Asset Pack_67
+  - first:
+      213: 7796366803090696565
+    second: TC_Basics Asset Pack_68
+  - first:
+      213: 7079623738041093607
+    second: TC_Basics Asset Pack_69
+  - first:
+      213: 2523541704476064941
+    second: TC_Basics Asset Pack_70
+  - first:
+      213: -4546913539631095717
+    second: TC_Basics Asset Pack_71
+  - first:
+      213: -1931217985015980748
+    second: TC_Basics Asset Pack_72
+  - first:
+      213: 4436180538273846122
+    second: TC_Basics Asset Pack_73
+  - first:
+      213: 4742855720148880730
+    second: TC_Basics Asset Pack_74
+  - first:
+      213: 9073872664451747392
+    second: TC_Basics Asset Pack_75
+  - first:
+      213: -6848598488427654535
+    second: TC_Basics Asset Pack_76
+  - first:
+      213: -7236676319247008089
+    second: TC_Basics Asset Pack_77
+  - first:
+      213: 5341565087665491777
+    second: TC_Basics Asset Pack_78
+  - first:
+      213: 4039047723180632710
+    second: TC_Basics Asset Pack_79
+  - first:
+      213: -7853678531170272043
+    second: TC_Basics Asset Pack_80
+  - first:
+      213: -3521865330270051238
+    second: TC_Basics Asset Pack_81
+  - first:
+      213: 5295251700306190946
+    second: TC_Basics Asset Pack_82
+  - first:
+      213: -8050235005967691857
+    second: TC_Basics Asset Pack_83
+  - first:
+      213: 6147350981618096288
+    second: TC_Basics Asset Pack_84
+  - first:
+      213: -6970082434861301541
+    second: TC_Basics Asset Pack_85
+  - first:
+      213: -9168924150345382789
+    second: TC_Basics Asset Pack_86
+  - first:
+      213: 8859993799788831098
+    second: TC_Basics Asset Pack_87
+  - first:
+      213: 6978203627874932112
+    second: TC_Basics Asset Pack_88
+  - first:
+      213: -7333851650907873256
+    second: TC_Basics Asset Pack_89
+  - first:
+      213: 3576189340581205736
+    second: TC_Basics Asset Pack_90
+  - first:
+      213: 4977088651331002608
+    second: TC_Basics Asset Pack_91
+  - first:
+      213: -2116380609706866365
+    second: TC_Basics Asset Pack_92
+  - first:
+      213: 8050640170634165028
+    second: TC_Basics Asset Pack_93
+  - first:
+      213: 2433194057074321514
+    second: TC_Basics Asset Pack_94
+  - first:
+      213: 3577675052553966611
+    second: TC_Basics Asset Pack_95
+  - first:
+      213: 2207464266551661504
+    second: TC_Basics Asset Pack_96
+  - first:
+      213: 6779979245771688775
+    second: TC_Basics Asset Pack_97
+  - first:
+      213: 7354538033461423752
+    second: TC_Basics Asset Pack_98
+  - first:
+      213: 5517612298275922032
+    second: TC_Basics Asset Pack_99
+  - first:
+      213: -5247174760424425818
+    second: TC_Basics Asset Pack_100
+  - first:
+      213: 5438885268153764345
+    second: TC_Basics Asset Pack_101
+  - first:
+      213: 6468354907023235208
+    second: TC_Basics Asset Pack_102
+  - first:
+      213: 2411661109834131588
+    second: TC_Basics Asset Pack_103
+  - first:
+      213: 1652223826350233178
+    second: TC_Basics Asset Pack_104
+  - first:
+      213: 3142381248430385477
+    second: TC_Basics Asset Pack_105
+  - first:
+      213: 925448947151940977
+    second: TC_Basics Asset Pack_106
+  - first:
+      213: -1716531295813256720
+    second: TC_Basics Asset Pack_107
+  - first:
+      213: -4623733844836971813
+    second: TC_Basics Asset Pack_108
+  - first:
+      213: 60180916808307417
+    second: TC_Basics Asset Pack_109
+  - first:
+      213: -4178774156331239654
+    second: TC_Basics Asset Pack_110
+  - first:
+      213: 1336772422344761888
+    second: TC_Basics Asset Pack_111
+  - first:
+      213: -2209442199365821909
+    second: TC_Basics Asset Pack_112
+  - first:
+      213: 3436628365759014882
+    second: TC_Basics Asset Pack_113
+  - first:
+      213: -2242911203803559248
+    second: TC_Basics Asset Pack_114
+  - first:
+      213: 827905436630440194
+    second: TC_Basics Asset Pack_115
+  - first:
+      213: -7708294164918961385
+    second: TC_Basics Asset Pack_116
+  - first:
+      213: 9076956556528952978
+    second: TC_Basics Asset Pack_117
+  - first:
+      213: 5136932140820039169
+    second: TC_Basics Asset Pack_118
+  - first:
+      213: -3225053236363491205
+    second: TC_Basics Asset Pack_119
+  - first:
+      213: 3623191333414282007
+    second: TC_Basics Asset Pack_120
+  - first:
+      213: 6687822526094207937
+    second: TC_Basics Asset Pack_121
+  - first:
+      213: 5685313917185127575
+    second: TC_Basics Asset Pack_122
+  - first:
+      213: -2566765908820056911
+    second: TC_Basics Asset Pack_123
+  - first:
+      213: -5271942900388922086
+    second: TC_Basics Asset Pack_124
+  - first:
+      213: 8804561694333897737
+    second: TC_Basics Asset Pack_125
+  - first:
+      213: 1930160964506360753
+    second: TC_Basics Asset Pack_126
+  - first:
+      213: -1170457098395369929
+    second: TC_Basics Asset Pack_127
+  - first:
+      213: 5918836384150581147
+    second: TC_Basics Asset Pack_128
+  - first:
+      213: 5513028049278630866
+    second: TC_Basics Asset Pack_129
+  - first:
+      213: -7463220093952064797
+    second: TC_Basics Asset Pack_130
+  - first:
+      213: -1125382584236600341
+    second: TC_Basics Asset Pack_131
+  - first:
+      213: -6231654948097491344
+    second: TC_Basics Asset Pack_132
+  - first:
+      213: -6526710856591230661
+    second: TC_Basics Asset Pack_133
+  - first:
+      213: 6159252000620965554
+    second: TC_Basics Asset Pack_134
+  - first:
+      213: -952181765409814649
+    second: TC_Basics Asset Pack_135
+  - first:
+      213: 370445123486697525
+    second: TC_Basics Asset Pack_136
+  - first:
+      213: -1273256067837906937
+    second: TC_Basics Asset Pack_137
+  - first:
+      213: -5949325663989266820
+    second: TC_Basics Asset Pack_138
+  - first:
+      213: 498244933871901247
+    second: TC_Basics Asset Pack_139
+  - first:
+      213: 6708036749251067432
+    second: TC_Basics Asset Pack_140
+  - first:
+      213: -1193959157788222771
+    second: TC_Basics Asset Pack_141
+  - first:
+      213: -1164466423894960369
+    second: TC_Basics Asset Pack_142
+  - first:
+      213: 6348033000251458819
+    second: TC_Basics Asset Pack_143
+  - first:
+      213: 4950463819330022444
+    second: TC_Basics Asset Pack_144
+  - first:
+      213: -514792311849118298
+    second: TC_Basics Asset Pack_145
+  - first:
+      213: -6983549769973834939
+    second: TC_Basics Asset Pack_146
+  - first:
+      213: -8497901647369137923
+    second: TC_Basics Asset Pack_147
+  - first:
+      213: -1549939058440661455
+    second: TC_Basics Asset Pack_148
+  - first:
+      213: 2617344478189037737
+    second: TC_Basics Asset Pack_149
+  - first:
+      213: -7639301268944143468
+    second: TC_Basics Asset Pack_150
+  - first:
+      213: -1204499733123825212
+    second: TC_Basics Asset Pack_151
+  - first:
+      213: 5283201826181788577
+    second: TC_Basics Asset Pack_152
+  - first:
+      213: -2136803255297507885
+    second: TC_Basics Asset Pack_153
+  - first:
+      213: -2417920473084830271
+    second: TC_Basics Asset Pack_154
+  - first:
+      213: 8354903561499636579
+    second: TC_Basics Asset Pack_155
+  - first:
+      213: 8706476794247702863
+    second: TC_Basics Asset Pack_156
+  - first:
+      213: -5943193122595488721
+    second: TC_Basics Asset Pack_157
+  - first:
+      213: -5912305296708895768
+    second: TC_Basics Asset Pack_158
+  - first:
+      213: 6750511287089242152
+    second: TC_Basics Asset Pack_159
+  - first:
+      213: -2898862226724744994
+    second: TC_Basics Asset Pack_160
+  - first:
+      213: -6014293577670520550
+    second: TC_Basics Asset Pack_161
+  - first:
+      213: -1650505919797875263
+    second: TC_Basics Asset Pack_162
+  - first:
+      213: -779771629546961321
+    second: TC_Basics Asset Pack_163
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3472
+        width: 686
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683fa3093f4d63244ab73c1da1b29d53
+      internalID: 8420734583408540276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3508
+        width: 53
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1678d80061575745a9af44f8053557b
+      internalID: -6420297571690913740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_2
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 3393
+        width: 250
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b04a394b43553409182548d253b1a1
+      internalID: 3624967635769426559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_3
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3390
+        width: 249
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ce02157151714e81645c536da9f5f
+      internalID: 2537881597444539797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_4
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3388
+        width: 249
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671b2dc73d9b8b488fdbb174905a757
+      internalID: -1156637404465613742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_5
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 3319
+        width: 452
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a401a2df321b49877f850fa031e65
+      internalID: 8959460560780197680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_6
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 3321
+        width: 456
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe301a9c55d9a0144b1fc17574079c2b
+      internalID: -1240595763308499423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_7
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 3618
+        width: 316
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bca1b11b9be0c4f869f33c4af029e0
+      internalID: -1882461161356639146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_8
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 3647
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a7a344efda7e44b4799495b91361e
+      internalID: -8469428021196228304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3275
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439168d1137f6bc4a9402b8c6dd63bc4
+      internalID: 270833427447985452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3275
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadaab0a2ed949e44aeb55ec80c61721
+      internalID: 3678671833387132597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_11
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3395
+        width: 315
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7067a0d7ae4c864f8452bf65e933b48
+      internalID: -8321744417887593368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_12
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 3386
+        width: 198
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9a39481baeee4684fde2044dd4e7e
+      internalID: -1658908763766720103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3239
+        width: 314
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48998cd71a1f1324baa7ac29a7935d52
+      internalID: -7558820298284537474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3159
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad8f9315f873c4990cf314720ca168
+      internalID: -5743484428058688839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3165
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eedce93994784e40bfbb49bdebf165f
+      internalID: 293937845465336498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3169
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c624c3fb56fcf4d9da0683e3b5acb4
+      internalID: 65627798406231062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2936
+        width: 476
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497116c08e36dee43a8ac5e6c8708b45
+      internalID: 8843097884498316980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_18
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2902
+        width: 554
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b92895935a22442be9aaadc2abaec8
+      internalID: -5242335828915094838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_19
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2902
+        width: 316
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7423d09981b54ba938dc8c66bda44
+      internalID: -7159576818419692845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_20
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 3218
+        width: 316
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812db5419bfae6429b1b680dd506653
+      internalID: -6360954955318266494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_21
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 3186
+        width: 245
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59113b79fda42c40855369dfe38f6c9
+      internalID: 7138024262452011547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2908
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8809c5f540c10c47a055a3e8cc8f8f9
+      internalID: -317050052168771799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2883
+        width: 94
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36acd0a9999f168439974212e20bb5e6
+      internalID: 3993884735217459593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3054
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91360387bd0f054ca4aede79e806257
+      internalID: 3961703499257318573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3064
+        width: 120
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6e6b3a40b26c45aa1ecb456919978
+      internalID: -7481374451390010559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_26
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2820
+        width: 636
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312abe63d62d8e44b8835688229f5bca
+      internalID: 4931397561053296834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_27
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2898
+        width: 461
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f8e949693f9240be51d72ee785454
+      internalID: 8427765094400674034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_28
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2992
+        width: 114
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7474c78667c34cbd523aae937c99b
+      internalID: -8372006003098257220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_29
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2990
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a4f6bc53180e48bcd0c22469a4c81
+      internalID: 4798857725245009383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2919
+        width: 202
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81e42aa0e64c5438142434f8c2ff12
+      internalID: 9039294743314841373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_31
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2561
+        width: 617
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1a52279060b5488ab80f1bccf9e09
+      internalID: 2186620501800207491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2717
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be19f542f59ac84ca8bfd168d8d2573
+      internalID: 2095502123042209741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2752
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42836979a7913124ba7f9dbff54354a9
+      internalID: -5444037179606489055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2653
+        width: 130
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec05bc6461a9a44917d46674fc6cb8
+      internalID: 6640460839330338402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2664
+        width: 128
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1ed8c1314c5a4ab18cfa9f2f0e4e1
+      internalID: 506800729542005624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_36
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2662
+        width: 128
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88327df79b62026419d4915663c21023
+      internalID: 8996601219972459040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_37
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2763
+        width: 139
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebefa6483cc7c1f4495c9156959c3b1c
+      internalID: -1032680280708161177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_38
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2546
+        width: 358
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75baae1cd5cf6c14daeb9c85ce8ee057
+      internalID: 3639010392823538534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_39
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 2338
+        width: 638
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941bdf31f896a2a46b019c59154f409f
+      internalID: 7419398758958020045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_40
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2634
+        width: 311
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f4bfa479071b4d8bee11495acf3c2
+      internalID: -5997919719661417341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_41
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 2651
+        width: 238
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ddf5039c94f34aac8c8f09e3c4999
+      internalID: -3260646303180059199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2521
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458127f74e10b440901e2a15a1b6935
+      internalID: 3468889796032748799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2521
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8be346609566f4bb1415f34c712396
+      internalID: -5686551362662350582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2521
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ed7e1126a7524cb175d910aedd8aa
+      internalID: -5301023758804396231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2529
+        width: 158
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc2f38f9db8ad468853b8fb8b0f877
+      internalID: 7420238664973044334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_46
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2599
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e422a20d09bc8e4996f0c2b8ddd7d18
+      internalID: -3599974254999658558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2342
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13d7006369e8a4380d252a778608fc
+      internalID: 2006719928854319119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2338
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0d4f774aa0724898d912d64e9564e
+      internalID: -6720241495726683647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_49
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2302
+        width: 214
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd869194719a143b89adca8fb8c014
+      internalID: -5037101960615578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_50
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2335
+        width: 169
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5519035d7bf54a043ab1f939fc066261
+      internalID: 549292505783339424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2350
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a846cbd342be347a9cb755095674dd
+      internalID: 4717842382771577651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_52
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2142
+        width: 598
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f870a8f68405d44fb78db1ec9d47e7a
+      internalID: -3933477749480568350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_53
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2142
+        width: 202
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffeb7006e0a16446b1d499127bb8e4a
+      internalID: -4473725366451480300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_54
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2283
+        width: 209
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccdee2dbcddc4468b5ab26e11d628d
+      internalID: -3478647329515817206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_55
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2140
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50570a31a03e31a4bb9cb1767b18b167
+      internalID: -5811213474410713182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_56
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2251
+        width: 619
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8072d7916b3c72439761c57c3d435d3
+      internalID: 7372000226529848634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2165
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9cbda2aa668ed4dad8809f0226c8b8
+      internalID: -2580154064917535988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2169
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5f68596ad7fe47aee89a1b6dd0135
+      internalID: 7531753120363449362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2156
+        width: 172
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b32d4191dfabd41b73d0603f768e0d
+      internalID: -1822128008444827635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_60
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2154
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c65c796ea2eb4f9d21799664e97c8
+      internalID: 1838097513585653323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_61
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1939
+        width: 634
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030a4702f9118e4f94b05bcb5d26d97
+      internalID: -348923150789702523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_62
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2034
+        width: 322
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1bd5e8f4b70cc45a114835b9a989e7
+      internalID: 2190732828412087641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2030
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de928a228dab46a40813c3309d5bb8fa
+      internalID: 5996727717201171426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2032
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373bdb74603ee148a906e43746e8ff3
+      internalID: -7847883718592243005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2030
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a031ffae777907439a548335c50720c
+      internalID: 5732017640637318118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_66
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2030
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c94fe204e3198449d741e6b0458210
+      internalID: -700964293790761717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2032
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac93305b352a742823bd20208dc574
+      internalID: 1355331299915950894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_68
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2034
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f3bba0f04c7b4ba709fe477f6e8e2
+      internalID: 7796366803090696565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_69
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2032
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4fa5916e2b704781bbb7f2feb73a1
+      internalID: 7079623738041093607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_70
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2032
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd8d720905c6b498a7921ef263b40f
+      internalID: 2523541704476064941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2030
+        width: 113
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af68190737fe27d4cba808d2e4334b5d
+      internalID: -4546913539631095717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_72
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1672
+        width: 326
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8cf1a4f24aa44ab270c7b7fc40a5a
+      internalID: -1931217985015980748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_73
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1813
+        width: 128
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4cf295ee19b9c4fb07f1091aa4d9ec
+      internalID: 4436180538273846122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_74
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1891
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982675418a2bc154a84ae9fad1523790
+      internalID: 4742855720148880730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_75
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1939
+        width: 678
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b015c76d8d0f4fa17f50ff6ecfacc
+      internalID: 9073872664451747392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_76
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2040
+        width: 322
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779783d7ae7df924bb6de0d00e6fa396
+      internalID: -6848598488427654535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a665e87653d494eabe88bf61d6f88d
+      internalID: -7236676319247008089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1920
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666e7fe1599b7848be4789d13fd1f86
+      internalID: 5341565087665491777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1920
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d76d80c8b43744da7f7f6fc8a8da66
+      internalID: 4039047723180632710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1921
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9cc7ac166335d4a977660541a6bbc2
+      internalID: -7853678531170272043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1921
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e713d3ec97a448b71d9109a54ae4d
+      internalID: -3521865330270051238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_82
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1920
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d18e0782cfb194886e9fd26a94aefe
+      internalID: 5295251700306190946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_83
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1920
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b7fbc29d86bc4a87cf4f49fb8e1e7
+      internalID: -8050235005967691857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_84
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1931
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9855ea71e74bcc4197cfcce6b530cfa
+      internalID: 6147350981618096288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_85
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1935
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecdb00604c5f344b9b2402b41022847
+      internalID: -6970082434861301541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_86
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1788
+        width: 330
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d64d975bc44644ac7ba02317044dd
+      internalID: -9168924150345382789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_87
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1788
+        width: 329
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe606315cb2f248b179890a7664463
+      internalID: 8859993799788831098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_88
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1801
+        width: 145
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47128f4b0e260a24ea08c52e82c36c81
+      internalID: 6978203627874932112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_89
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1840
+        width: 612
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f40886974df344cb1c99fb8659f538
+      internalID: -7333851650907873256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_90
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1579
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc75513fa83ee348b73a833678f3fa5
+      internalID: 3576189340581205736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_91
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 1584
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff998f969f24ca458d2012443fdaccb
+      internalID: 4977088651331002608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_92
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1798
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaacb4a9ee5dac4e80daf1698f3a363
+      internalID: -2116380609706866365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_93
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1805
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d2947dccc0054fb574e0f52b08a70
+      internalID: 8050640170634165028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_94
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 1796
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb525392f461ac747ad584150d0d48d7
+      internalID: 2433194057074321514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_95
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1611
+        width: 95
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5650d8c3f17cb49af5520eb3368548
+      internalID: 3577675052553966611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_96
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1611
+        width: 95
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7e55f74b5e37499528cd62184f4fb
+      internalID: 2207464266551661504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_97
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1461
+        width: 158
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960db6d69056754cb20444dfdeadd72
+      internalID: 6779979245771688775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_98
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1472
+        width: 584
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee6aeb1af988a44926c0dfa566834b
+      internalID: 7354538033461423752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_99
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1421
+        width: 321
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49687d5ae620a414dadb3dda851a8f02
+      internalID: 5517612298275922032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_100
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1723
+        width: 612
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5cda4d678bf3c41a7142fd281ab61a
+      internalID: -5247174760424425818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_101
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1609
+        width: 109
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03be4303122a46418acbfb39489a0cc
+      internalID: 5438885268153764345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_102
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 1592
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687c688c4911b2478f38731c2016532
+      internalID: 6468354907023235208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_103
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1634
+        width: 282
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76ac64c0b0d1940bfd38fae2a7e1e8
+      internalID: 2411661109834131588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_104
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1592
+        width: 305
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8a55ba8c2f174abe918c3945d4205
+      internalID: 1652223826350233178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_105
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1611
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabd47f606fb9e4eb743798744534d4
+      internalID: 3142381248430385477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_106
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1101
+        width: 156
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d182b66626934283b43564adfb729
+      internalID: 925448947151940977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1116
+        width: 608
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b186a851667e443929ad1b90672219
+      internalID: -1716531295813256720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_108
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1303
+        width: 428
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6cd127ab5028a4696cd4c457022ccb
+      internalID: -4623733844836971813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_109
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1257
+        width: 318
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a97457edc2134c9ed6526231ab5d1
+      internalID: 60180916808307417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_110
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1224
+        width: 625
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46c167e08c843499dd808a1e855cdd
+      internalID: -4178774156331239654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_111
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1114
+        width: 287
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a4ff6141615941833be4b83aad8a3
+      internalID: 1336772422344761888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_112
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1148
+        width: 173
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6508eff36465324cb98c1f844c2a359
+      internalID: -2209442199365821909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_113
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 1224
+        width: 579
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eaa28d23018b547b7020d2c443f599
+      internalID: 3436628365759014882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129
+        width: 965
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a52fec5a8ce94c9468b880c36e173
+      internalID: -2242911203803559248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_115
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 470
+        width: 703
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9fed29e1d6ef4e9a9a88968e608d0
+      internalID: 827905436630440194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_116
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 960
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0638a630462a244db0bab9cc816cc01
+      internalID: -7708294164918961385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_117
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 998
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d585a7e5ad904e89855b3388d45e9
+      internalID: 9076956556528952978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_118
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 771
+        width: 301
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f18923490e317478774dc6bdbe726e
+      internalID: 5136932140820039169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_119
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 933
+        width: 193
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4340739c6929bc43aa72d8cf47786a2
+      internalID: -3225053236363491205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_120
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1015
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f460dc421bab84e9611e369853f4f6
+      internalID: 3623191333414282007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_121
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1015
+        width: 124
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe44a9bfd329714da11954d75df8a51
+      internalID: 6687822526094207937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_122
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1002
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee2ac322b17d34f9e45f44af5a3e16
+      internalID: 5685313917185127575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_123
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1004
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed4e85fc290fac46bc190eea048eae1
+      internalID: -2566765908820056911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_124
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 967
+        width: 463
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0dd77e526f954dbb1c796b85d1f8d
+      internalID: -5271942900388922086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_125
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 766
+        width: 135
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844728bc4ce3dc4583506821367bed4
+      internalID: 8804561694333897737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_126
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 897
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f4391ae3d5c24f8839658fc798850
+      internalID: 1930160964506360753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_127
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 878
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4f7ed7c9c95648a909c900c65a4aa
+      internalID: -1170457098395369929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_128
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 868
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c779f6cebf9c42962c63b571f3a7e
+      internalID: 5918836384150581147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_129
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 866
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a1ce2e7cad974a80421bd42976bd7
+      internalID: 5513028049278630866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_130
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 661
+        width: 188
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe806a12346834f85be3cff9b5800d
+      internalID: -7463220093952064797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_131
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 619
+        width: 198
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b407a0e95ad245aaa143bc2474e2e
+      internalID: -1125382584236600341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_132
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 689
+        width: 287
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98638f2abe150439b363358b5de87f
+      internalID: -6231654948097491344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_133
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 665
+        width: 101
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f8b92bfeb4a6478a9caf48527bc58
+      internalID: -6526710856591230661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_134
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 678
+        width: 217
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d04dc4dc1b0a4cae1b75c3cec3431
+      internalID: 6159252000620965554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_135
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 665
+        width: 284
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad2fe1172d7ab4d94ed8dbf2226dd9
+      internalID: -952181765409814649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_136
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 676
+        width: 222
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539285802026b146a9abd0d8d11352c
+      internalID: 370445123486697525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_137
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 394
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea219e21c0522d4082e1d9b02f8f5a1
+      internalID: -1273256067837906937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_138
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 379
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940cbff29c734343a04f56f44132ca0
+      internalID: -5949325663989266820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_139
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 385
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a06eec2fe0f004fa9940980c92c007
+      internalID: 498244933871901247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_140
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 406
+        width: 133
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7eede354f72f4a81648d536de3fbb
+      internalID: 6708036749251067432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_141
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 467
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902a1060bcaa3b4e844959cf9f07e1e
+      internalID: -1193959157788222771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_142
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 291
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23e5ece059a35478950953efdbd345
+      internalID: -1164466423894960369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_143
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 116
+        width: 944
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633bc4a8b851d341bdbd3d4c7025d4c
+      internalID: 6348033000251458819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_144
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 57
+        width: 425
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae99768cd63164459596a516c7e8f67
+      internalID: 4950463819330022444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_145
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 354
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08212c0d0b422f44db0873c3a13bc77a
+      internalID: -514792311849118298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_146
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 333
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688b487f2d3ea0448b6ba41fe68ddd1
+      internalID: -6983549769973834939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_147
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 305
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2648d166a644df42bb835b5040e7f5a
+      internalID: -8497901647369137923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_148
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 244
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f91d08c133e941a9887f03d2205d3
+      internalID: -1549939058440661455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_149
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 373
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8850d2f46ca504898097b1a6d75aa1
+      internalID: 2617344478189037737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_150
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 248
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b89caef632134a881c47a216d2dbf
+      internalID: -7639301268944143468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_151
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 240
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed85aacbd18497d4c9f0e954666af9e4
+      internalID: -1204499733123825212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_152
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 217
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b881d6fff2d1b0409264547a8036a95
+      internalID: 5283201826181788577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_153
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 185
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d19022afcc144f9f7b0192798a747
+      internalID: -2136803255297507885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_154
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 225
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ffd44b48b52641bfbf36af7537c99
+      internalID: -2417920473084830271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_155
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 93
+        width: 314
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59be661683285428b71cd3cb2c4e30
+      internalID: 8354903561499636579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_156
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 215
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d731fe5efd8c408b333a68685dd50
+      internalID: 8706476794247702863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_157
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 93
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b5620333c7654697cbee0d84c0e61
+      internalID: -5943193122595488721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_158
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 137
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648cc721c11c63448ae9bdf938890606
+      internalID: -5912305296708895768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_159
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 124
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d467de3f5bd24eb1a8bc15f5e8eb9
+      internalID: 6750511287089242152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_160
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 78
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca24dcfc74b1dd478ad29471339e2fb
+      internalID: -2898862226724744994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_161
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 93
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4f570f2935b7d4ebc1a07343597427
+      internalID: -6014293577670520550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_162
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 82
+        width: 165
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3c6492af9d2043a7227ec08bb3573
+      internalID: -1650505919797875263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TC_Basics Asset Pack_163
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 65
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528285798d529f4bb99a1a9fbe03cf0
+      internalID: -779771629546961321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

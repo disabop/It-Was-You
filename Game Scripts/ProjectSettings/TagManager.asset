@@ -50,18 +50,33 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1944845853
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Character
     uniqueID: 1284017463
     locked: 0
+  - name: FurnitureBehind
+    uniqueID: 4004152603
+    locked: 0
+  - name: Wall
+    uniqueID: 2253884193
+    locked: 0
   - name: Door
     uniqueID: 1492721369
+    locked: 0
+  - name: Furniture
+    uniqueID: 3447472569
     locked: 0
   - name: BackpackItem
     uniqueID: 697837489
     locked: 0
   - name: Drawer
     uniqueID: 1794444839
+    locked: 0
+  - name: WallOnTop
+    uniqueID: 380840693
     locked: 0

@@ -11,6 +11,10 @@ public class Player : MonoBehaviour
     private int interactTime = 400;
     public GameObject BasementText;
     public Pickup BasementKeyCheck;
+    public GameObject Camera1;
+    public GameObject Camera2;
+    public GameObject Camera3;
+    public GameObject Camera4;
 
     public Vector2 velocity;
 
@@ -104,6 +108,8 @@ public class Player : MonoBehaviour
             {
                 transform.position = new Vector2(-93, 248);
                 delay = 0;
+                Camera1.gameObject.SetActive(false);
+                Camera2.gameObject.SetActive(true);
             }
         }
         else if (other.CompareTag("FirstFloorStairs"))
@@ -112,6 +118,8 @@ public class Player : MonoBehaviour
             {
                 transform.position = new Vector2(270, -45);
                 delay = 0;
+                Camera2.gameObject.SetActive(false);
+                Camera1.gameObject.SetActive(true);
             }
         }
         else if (other.CompareTag("DoorLeadingOutside"))
@@ -120,6 +128,8 @@ public class Player : MonoBehaviour
             {
                 transform.position = new Vector2(212, 248);
                 delay = 0;
+                Camera2.gameObject.SetActive(false);
+                Camera3.gameObject.SetActive(true);
             }
         }
         else if (other.CompareTag("OutsideDoor"))
@@ -128,11 +138,15 @@ public class Player : MonoBehaviour
             {
                 transform.position = new Vector2(-169, 182);
                 delay = 0;
+                Camera3.gameObject.SetActive(false);
+                Camera2.gameObject.SetActive(true);
             }
         }
         else if (other.CompareTag("BasementDoor") && BasementKeyCheck != null)
         {
             transform.position = new Vector2(-94, -37);
+            Camera2.gameObject.SetActive(false);
+            Camera4.gameObject.SetActive(true);
         }
         else if (other.CompareTag("BasementDoor") && BasementKeyCheck == null)
         {

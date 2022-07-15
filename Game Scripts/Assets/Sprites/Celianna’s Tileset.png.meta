@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 100a3ae89daa51548aff1f52ce5b17a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8250109542053515916
+    second: small_closet1
+  - first:
+      213: -8215950560402566853
+    second: smallerlongcloset
+  - first:
+      213: 2250757829134932792
+    second: smallerlongcloset2
+  - first:
+      213: 2914646894694077591
+    second: chairfacingright
+  - first:
+      213: -9012929331120418928
+    second: chairfacingleft
+  - first:
+      213: 1296125551425991600
+    second: table1
+  - first:
+      213: -3551773745164438710
+    second: table2
+  - first:
+      213: -7237052194789385257
+    second: table3
+  - first:
+      213: -7696216794744772638
+    second: table4
+  - first:
+      213: -5796797938518126799
+    second: smalltable1
+  - first:
+      213: 5753993337140644988
+    second: smalltable2
+  - first:
+      213: -201589949172427988
+    second: darkwoodtable
+  - first:
+      213: 6431300968112263198
+    second: chairfacingup
+  - first:
+      213: 864922036542924499
+    second: chairfacingdown
+  - first:
+      213: 5392729856190029198
+    second: chair2facingdown
+  - first:
+      213: -5795561479282769666
+    second: chair2facingup
+  - first:
+      213: 6906490179388698872
+    second: chair2facingright
+  - first:
+      213: 7138572147474916627
+    second: chair2facingleft
+  - first:
+      213: 6557124523489556784
+    second: stairrailing1
+  - first:
+      213: -5880438087159733240
+    second: stairrailing2
+  - first:
+      213: 4755620865239766066
+    second: stairrailing3
+  - first:
+      213: 8204816319163969649
+    second: stairrailing4
+  - first:
+      213: -4126220504188851370
+    second: kitchencounter1
+  - first:
+      213: -2771147064400107432
+    second: kitchencounter2
+  - first:
+      213: 7667106039792826649
+    second: kitchencounter3
+  - first:
+      213: -6296452204458125597
+    second: kitchencounter4
+  - first:
+      213: -3356490847221577633
+    second: stove1
+  - first:
+      213: -4716706568880839570
+    second: couchfacingleft
+  - first:
+      213: 3577712302161527690
+    second: couchfacingup
+  - first:
+      213: -2770341149252812669
+    second: emptyfireplace1
+  - first:
+      213: -1096389985781843291
+    second: pottedplant1
+  - first:
+      213: -3214102850481901945
+    second: bunkbed1
+  - first:
+      213: -7934059299363164553
+    second: washbasin1
+  - first:
+      213: -6792129906517519584
+    second: reddoublebed
+  - first:
+      213: -3874000091593295789
+    second: flowerpainting
+  - first:
+      213: 3464291119045918529
+    second: kingpainting
+  - first:
+      213: 1216895968200474528
+    second: wheatpainting
+  - first:
+      213: -3238983847016888942
+    second: queenpainting
+  - first:
+      213: 6324602339336863695
+    second: applepainting1
+  - first:
+      213: -5827022030783897769
+    second: mountedmirror
+  - first:
+      213: -3922638340229106623
+    second: redchairfacingdown
+  - first:
+      213: -5180627968788114338
+    second: redchairfacingup
+  - first:
+      213: -1874129892925543955
+    second: redchairfacingright
+  - first:
+      213: 6571100858663482273
+    second: redchairfacingleft
+  - first:
+      213: -4424211016480713051
+    second: chainchandelier
+  - first:
+      213: -1163679654757852952
+    second: wallcandles
+  - first:
+      213: -3397153464611966059
+    second: uprightcandle
+  - first:
+      213: 5075265212427138211
+    second: blackchairfacingdown
+  - first:
+      213: -8491218430103740846
+    second: smalltablewithbooks
+  - first:
+      213: 1945786269973983585
+    second: brownbookshelf
+  - first:
+      213: 4894275632810269423
+    second: darkwoodbookshelf
+  - first:
+      213: -7005200827633286194
+    second: darkwoodcloset
+  - first:
+      213: -2542849350289045555
+    second: browncloset
+  - first:
+      213: -2330232260815064918
+    second: largebrownitemshelf
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: small_closet1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad41d308364794482ac04773d0826a
+      internalID: -8250109542053515916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallerlongcloset
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00e44dec2c3b043a4dd88285606ebd
+      internalID: -8215950560402566853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallerlongcloset2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 115
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f76058d55f8145a0b3797fdb8c239
+      internalID: 2250757829134932792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chairfacingright
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad8bc6bbdcd3448b0c2309ea3aa400
+      internalID: 2914646894694077591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chairfacingleft
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca49941f37490479d42b6c776c4645
+      internalID: -9012929331120418928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7db09aab7bd34a8158c1092b98367
+      internalID: 1296125551425991600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe205278ce3ef4a8fa649e6d9ff2a1
+      internalID: -3551773745164438710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 267
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8fe5e20a421045ae260e14a90a6d9
+      internalID: -7237052194789385257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 300
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52de46dd52b884bb57a2116102bb1a
+      internalID: -7696216794744772638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smalltable1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 335
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81807733f46c28f4693db9a1cf4565b4
+      internalID: -5796797938518126799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smalltable2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 332
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a467e93570e4ad4ba8817cd6624f224
+      internalID: 5753993337140644988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwoodtable
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2bb3b1963643047b18add83c8a1fef
+      internalID: -201589949172427988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chairfacingup
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b1970bafcc484bb680eb4c0fe35a6
+      internalID: 6431300968112263198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chairfacingdown
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be95405968d574bafb8c8d72123c36
+      internalID: 864922036542924499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair2facingdown
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc625e7db6bab9d42b1aff83f2d50bbf
+      internalID: 5392729856190029198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair2facingup
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c359578521081d408f27f66ec78565a
+      internalID: -5795561479282769666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair2facingright
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 455
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528b08845212df4ab20e05b700702f1
+      internalID: 6906490179388698872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair2facingleft
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 455
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0bf4ee4c76f742acbdddf03f103e4
+      internalID: 7138572147474916627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairrailing1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 118
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981da16431c1cf498dd1cb8e76536a0
+      internalID: 6557124523489556784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairrailing2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 118
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac3abd5bfeeb14b8b9a09a583a251c
+      internalID: -5880438087159733240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairrailing3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 153
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da3705492005d4ab86821f94a37163
+      internalID: 4755620865239766066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairrailing4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 153
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c048ce1d3918904d8792f37d7671098
+      internalID: 8204816319163969649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchencounter1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e030a3fa03080444b618ed6ea6cbe86
+      internalID: -4126220504188851370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchencounter2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 206
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0329fb4403b543814a0693c294962
+      internalID: -2771147064400107432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchencounter3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 174
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0813dc0b1c18e1428cc85a30c7b9f30
+      internalID: 7667106039792826649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchencounter4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 142
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbbd85b33550e643b9e05dd1aaddaf0
+      internalID: -6296452204458125597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c952a0662f739c47b7f2ac6cc800e8c
+      internalID: -3356490847221577633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couchfacingleft
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6162beec972ad43bd06f7a8fb2f49a
+      internalID: -4716706568880839570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couchfacingup
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58408de5f4acc114b9c4c66ccf751fcc
+      internalID: 3577712302161527690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emptyfireplace1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 384
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06668d7f48e674d4b848ec1f7dc90d9c
+      internalID: -2770341149252812669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pottedplant1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 450
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d44a5d55a4ff642ba634af4f6c4b56
+      internalID: -1096389985781843291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunkbed1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d382fb37e38146bfea748b1381f6b
+      internalID: -3214102850481901945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: washbasin1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 66
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe0476561ec0c4b9384b7efea2a8e0
+      internalID: -7934059299363164553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reddoublebed
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a9bb37b40b9fa4b8b19bb81cccb673
+      internalID: -6792129906517519584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerpainting
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 352
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b01e3fa2ef7ee44940f50a91a54bed
+      internalID: -3874000091593295789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingpainting
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297f1eb6e3869e4bacf14ed1d25c8d8
+      internalID: 3464291119045918529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheatpainting
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 320
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a8f89939689449b2a505694680f62
+      internalID: 1216895968200474528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenpainting
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 320
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289e3b98ba5094a4d9fa937b8410b31f
+      internalID: -3238983847016888942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applepainting1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb7d351a36776419277c7267dc3ace
+      internalID: 6324602339336863695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountedmirror
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 323
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbc13dae8317642b9a1a05b49bc14f
+      internalID: -5827022030783897769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redchairfacingdown
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 454
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4309a06fbb6b694a974aa0344733732
+      internalID: -3922638340229106623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redchairfacingup
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 453
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac06c8c442e654e8d2c2714c8842da
+      internalID: -5180627968788114338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redchairfacingright
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 453
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1831d2484d03f2447a04c570ef1188ff
+      internalID: -1874129892925543955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redchairfacingleft
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 453
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be298bfd8bf4444fb762559311b9b58
+      internalID: 6571100858663482273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainchandelier
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 450
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09a8cc447665d45ac3e7b42ec7a0de
+      internalID: -4424211016480713051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallcandles
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 473
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be70a55faabea44a9063675de1b2dc9
+      internalID: -1163679654757852952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uprightcandle
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 457
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dda01077f3edd45bf204cc29c38293
+      internalID: -3397153464611966059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackchairfacingdown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac63c4bea9b16419b3cc79409bf7b4
+      internalID: 5075265212427138211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smalltablewithbooks
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1faf9da88cfe60469bb88a80bfe447e
+      internalID: -8491218430103740846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownbookshelf
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f2116ce4b1b140a38f466accb0ba4
+      internalID: 1945786269973983585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwoodbookshelf
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b8ca61b505e34ba1c8a0fb7c73aa0
+      internalID: 4894275632810269423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwoodcloset
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb751ebfbb549e458dbbd60d794e32c
+      internalID: -7005200827633286194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: browncloset
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731dbfd83ef07145a3d3acaf97c4f30
+      internalID: -2542849350289045555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: largebrownitemshelf
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cb7f612133a241951c3e4194a5300
+      internalID: -2330232260815064918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
