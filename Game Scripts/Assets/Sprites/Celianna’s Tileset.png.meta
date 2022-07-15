@@ -176,6 +176,18 @@ TextureImporter:
   - first:
       213: -8487160935515497906
     second: goldmirror
+  - first:
+      213: -1522022534961286859
+    second: oldwoodenshelf
+  - first:
+      213: 166751446927637781
+    second: dinnertable1
+  - first:
+      213: -6356027537012722186
+    second: "Celianna\u2019s Tileset_0"
+  - first:
+      213: -8482062274029195358
+    second: pottedplant2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1473,6 +1485,90 @@ TextureImporter:
       bones: []
       spriteID: 70dede062a47d254cb711ffd0ffcb66a
       internalID: -8487160935515497906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldwoodenshelf
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6ee3d0b540c24489570860631f2a0
+      internalID: -1522022534961286859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinnertable1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcedac1b47a21429e93ba385c6b9a1
+      internalID: 166751446927637781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Celianna\u2019s Tileset_0"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 386
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7da9cdc666044e91529002154355d
+      internalID: -6356027537012722186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pottedplant2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f548e52e468eae42952611302aef07d
+      internalID: -8482062274029195358
       vertices: []
       indices: 
       edges: []
